@@ -1,8 +1,6 @@
 '''
-R. Redacted
-C. Redacted
-CYB-216
-Project: Option 2 (Automated Security Tool)
+
+Automated Security Tool
 May 4, 2018
 
 Email Scraper Tool:
@@ -14,6 +12,8 @@ devops for review. The script could be automated and ran weekly on a
 cron job to ensure email addresses on not posted on a company website.
 
 '''
+
+# /usr/bin/env python
 
 # Libraries used for scraper
 from bs4 import BeautifulSoup
